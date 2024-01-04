@@ -3,7 +3,7 @@
 
 Structs - (Sctructures, The Data Structure), custom data type / an entity that contains its own information, such as variables and functions. 
 
-They use OOP. Structures are a way to group several related variables into one place.
+Structs use OOP. Structures are a way to group several related variables into one place.
 
 	EXAMPLE
 

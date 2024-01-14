@@ -18,7 +18,7 @@ Items are stored in the Stack, and they're prioritized, based on the order they 
 	p = 3
 	p = 15
 
-Heap is reserverd for dynamic memory - when we don't know how much memory we have to use, we use dynamic.
+Heap is reserved for dynamic memory - when we don't know how much memory we have to use, we use dynamic.
 We allocate memory to the Heap by 2 keywords:
 
 new
